@@ -1,0 +1,24 @@
+# Windows
+Thumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+
+# Power BI
+*.pbix.autosave
+
+# Databricks
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# Logs
+*.log
